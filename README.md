@@ -1,5 +1,5 @@
 
-**•	Objective.**
+**Objective**
 
 
 The Chess Game Application aims to provide a playable and functional chess game experience for participants, following all normal rules, including piece movement and special moves like casting. A well-thought-out user interface, complete with check and checkmate signs, makes for intuitive games, while real-time board updates guarantee a smooth experience. With the ability to store movements and results for the last five games, the application will precisely record game history. Restart and new game options offer flexibility and are reinforced by strong error handling. Ensuring maintainability through prioritizing code quality and documentation, as well as validating correctness and stability through extensive testing, guarantees a positive experience for both developers and players.
