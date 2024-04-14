@@ -3,7 +3,9 @@
 
 
 The Chess Game Application aims to provide a playable and functional chess game experience for participants, following all normal rules, including piece movement and special moves like casting. A well-thought-out user interface, complete with check and checkmate signs, makes for intuitive games, while real-time board updates guarantee a smooth experience. With the ability to store movements and results for the last five games, the application will precisely record game history. Restart and new game options offer flexibility and are reinforced by strong error handling. Ensuring maintainability through prioritizing code quality and documentation, as well as validating correctness and stability through extensive testing, guarantees a positive experience for both developers and players.
-•	Demonstrate the functionality of the classes.
+
+**•	Demonstrate the functionality of the classes.**
+
 This C# code snippet is designed for a simple vehicle rental agency system. It outlines the creation and management of a Chess Logic (Moves, Pieces such as Bishop, King, Queen, Knight, Pawn, Rook, Board, Counting, Direction, End of Reason, Game State), and Chess User Interface (Images, Cursors, Game over, Main window). Now, let’s break down the components and functionalities of the program.
 
 **•	Piece Class:**
